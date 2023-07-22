@@ -1,0 +1,1 @@
+$env:GOOGLE_APPLICATION_CREDENTIALS="C:\Users\Andres Fuentes\Documents\proyectos_personales\link-sharing\backend\link-sharing-5df3b-firebase-adminsdk-z340y-88345fe61c.json"
